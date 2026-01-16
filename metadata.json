@@ -1,0 +1,8 @@
+{
+  "name": "Josh Ely — Hardcore Portfolio",
+  "description": "A high-performance, aggressive digital identity and systems portfolio for Josh Ely. Featuring cinematic 3D motion, capability showcases, and a guided conversion funnel.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
