@@ -153,6 +153,11 @@ export const GALLERY_ITEMS = [
   { id: 'g2', url: 'https://images.unsplash.com/photo-1563299071-789648937965?auto=format&fit=crop&q=80&w=800', category: 'MEDIA', label: 'BMX_STREET_NIGHT' },
   { id: 'g3', url: 'https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&q=80&w=800', category: 'SYSTEM', label: 'HW_STATION_DEBUG' },
   { id: 'g4', url: 'https://images.unsplash.com/photo-1515462277126-2dd0c162007a?auto=format&fit=crop&q=80&w=800', category: 'TATTOO', label: 'CYBERPUNK_SLEEVE' },
+  { id: 'g5', url: '/lava-planet-concept.jpg', category: 'MEDIA', label: 'VOLCANIC_GENESIS_01' },
+  { id: 'g6', url: '/hardcore-processor.jpg', category: 'SYSTEM', label: 'HARDCORE_CORE_UNIT' },
+  { id: 'g7', url: '/portrait-silver.jpg', category: 'MEDIA', label: 'PORTRAIT_NEON_NIGHT' },
+  { id: 'g8', url: '/marilyn-roses-tattoo.jpg', category: 'TATTOO', label: 'MARILYN_NEO_TRAD' },
+  { id: 'g9', url: '/ai-tattoo-interface.jpg', category: 'SYSTEM', label: 'AI_TATTOO_STUDIO' },
 ];
 
 export const HARDWARE_LAB = [
